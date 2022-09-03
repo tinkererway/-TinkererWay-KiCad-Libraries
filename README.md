@@ -1,2 +1,2 @@
-# -TinkererWay-KiCad-Libraries
+# TinkererWay-KiCad-Libraries
 TinkererWay's KiCad Libraries 
